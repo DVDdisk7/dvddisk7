@@ -2,18 +2,14 @@
 
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=dvddisk7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=dvddisk7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
 <h3 align="left">Wat ik doe</h3>
 
 ###
 
-<p align="left">💻 Websites bouwen voor bedrijven: <a href="https://hl-products.nl">H&L Products</a>, <a href="https://thoenbv.nl">'t Hoen BV</a><br>🔭 Hobby projecten zoals <a href="https://github.com/DVDdisk7/wieishet-kerkapp">Wie is Het? voor de kerkapp</a></p>
+<p align="left">💻 Websites bouwen voor bedrijven: <a href="https://hl-products.nl">H&L Products</a>, <a href="https://thoenbv.nl">'t Hoen BV</a>
+  <br>🔭 Hobby projecten zoals <a href="https://github.com/DVDdisk7/wieishet-kerkapp">Wie is Het? voor de kerkapp</a>
+  <br>🏫 Werkt aan <a href="https://github.com/mijn-rooster">Mijn Rooster</a> voor PWS</p>
+</p>
 
 ###
 
